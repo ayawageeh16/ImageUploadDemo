@@ -1,0 +1,25 @@
+
+v
+java:S11042"TMake fileName a static final constant or non-public and provide accessors if needed.(°ÂÈäüÿÿÿÿ8™Š¬òœ.
+z	java:S1160"YRename this field "ASPECT_RATIO_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìõ‘ýûÿÿÿÿ8™Š¬òœ.
+Q
+java:S1659/"5Declare "setBitmapMaxWidthHeight" on a separate line.(Íí§!8™Š¬òœ.
+q
+java:S4042…"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¼žú™ýÿÿÿÿ8™Š¬òœ.
+]	java:S899…";Do something with the "boolean" value returned by "delete".(¼žú™ýÿÿÿÿ8™Š¬òœ.
+X
+java:S2696v"6Make the enclosing method "static" or remove this set.(œì›³üÿÿÿÿ8™Š¬òœ.
+m
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(öÛ«°þÿÿÿÿ8™Š¬òœ.
+P
+java:S14442".Make this "public static fileName" field final(°ÂÈäüÿÿÿÿ8™Š¬òœ.
+C	java:S131`""Add a default case to this switch.(öÛ«°þÿÿÿÿ8™Š¬òœ.
+z	java:S1160"YRename this field "ASPECT_RATIO_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìõ‘ýûÿÿÿÿ8™Š¬òœ.
+O
+java:S16590"-Declare "bitmapMaxHeight" on a separate line.(ìõ‘ýûÿÿÿÿ8™Š¬òœ.
+N
+java:S16590",Declare "ASPECT_RATIO_Y" on a separate line.(ìõ‘ýûÿÿÿÿ8°ªŸòœ.
+N
+java:S16590",Declare "bitmapMaxWidth" on a separate line.(ìõ‘ýûÿÿÿÿ8™Š¬òœ.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(îƒÀÉøÿÿÿÿ8æ°ìŠŸ.
+}	java:S1161"\Rename this field "IMAGE_COMPRESSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞêŠÿÿÿÿÿ8°ªŸòœ.

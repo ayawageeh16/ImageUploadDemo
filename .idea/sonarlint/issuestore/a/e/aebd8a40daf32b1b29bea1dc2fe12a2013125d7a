@@ -1,0 +1,17 @@
+
+n
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Î¾8èøõŒŸ.
+N
+java:S1602<",Remove useless curly braces around statement(äƒøÿÿÿÿ8óèàòœ.
+Z
+java:S1144ä"7Remove this unused private "loadProfileDefault" method.(ûÄïÿÿÿÿÿ8¯µõŒŸ.
+Y	java:S125æ"<This block of commented-out lines of code should be removed.(“÷’¦8¯µõŒŸ.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(òò¡äıÿÿÿÿ8¯µõŒŸ.
+M
+java:S1066"/Merge this if statement with the enclosing one.(¾Çß8Íşßõœ.
+e
+java:S2259‚"BA "NullPointerException" could be thrown; "data" is nullable here.(¬³Ò…ûÿÿÿÿ8í×‹ŠŸ.
+F
+java:S1148»"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯µõŒŸ.
+S
+java:S1128"1Remove this unused import 'android.os.FileUtils'.(®¸¨ßşÿÿÿÿ8¨îûŸ.

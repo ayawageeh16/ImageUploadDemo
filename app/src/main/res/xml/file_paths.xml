@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--FileProvider path to store the camera images
+     in a cached location instead of storing
+     them in gallery -->
+<paths>
+    <external-cache-path
+        name="cache"
+        path="camera" />
+</paths>
